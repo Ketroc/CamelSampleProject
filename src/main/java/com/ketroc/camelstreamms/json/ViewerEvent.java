@@ -16,7 +16,9 @@ public record ViewerEvent(
         @JsonSerialize(using = LocalDateTimeSerializer.class)
         @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss")
         LocalDateTime startWatchingTimestamp,
+
         @JsonDeserialize(using = LocalDateTimeDeserializer.class)
         @JsonSerialize(using = LocalDateTimeSerializer.class)
         @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss")
-        LocalDateTime endWatchingTimestamp) { }
+        LocalDateTime endWatchingTimestamp
+) { }
