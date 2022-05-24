@@ -1,0 +1,6 @@
+{
+    "listOfEvents":[
+        {"userId":"bob", "streamId":"123", "startWatchingTimestamp":"2022-05-18T17:45:55", "endWatchingTimestamp":"2022-05-18T17:55:55"},
+        {"userId":"bill", "streamId":"123", "startWatchingTimestamp":"2022-05-18T23:45:00", "endWatchingTimestamp":"2022-05-19T00:50:00"}
+    ]
+}

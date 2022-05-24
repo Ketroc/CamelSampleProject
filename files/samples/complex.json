@@ -1,0 +1,10 @@
+{
+    "listOfEvents":[
+        {"userId":"bob", "streamId":"123", "startWatchingTimestamp":"2022-05-18T17:45:55", "endWatchingTimestamp":"2022-05-18T19:45:55"},
+        {"userId":"greg", "streamId":"256", "startWatchingTimestamp":"2022-05-18T09:35:20", "endWatchingTimestamp":"2022-05-18T14:02:01"},
+        {"userId":"bill", "streamId":"123", "startWatchingTimestamp":"2022-05-18T17:45:55", "endWatchingTimestamp":"2022-05-18T20:45:55"},
+        {"userId":"gary", "streamId":"256", "startWatchingTimestamp":"2022-05-18T09:15:20", "endWatchingTimestamp":"2022-05-18T14:05:01"},
+        {"userId":"shawna", "streamId":"123", "startWatchingTimestamp":"2022-05-18T16:45:55", "endWatchingTimestamp":"2022-05-18T19:55:55"},
+        {"userId":"jesse", "streamId":"626", "startWatchingTimestamp":"2022-05-18T09:30:20", "endWatchingTimestamp":"2022-05-18T14:52:01"}
+    ]
+}
