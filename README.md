@@ -1,7 +1,7 @@
 # CamelSampleProject
 This small sample project uses Apache Camel to transform stream viewer stats from json into total view time per stream, then log the results.
 
-For example, when a json file is put in the files/input directory with the content of:
+For example, when a json file is consumed from the files/input directory with the content of:
 
 ```json
 {
